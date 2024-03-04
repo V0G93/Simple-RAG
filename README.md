@@ -8,7 +8,7 @@ A simple, efficient Q&A system leveraging Retrieval-Augmented Generation (RAG), 
 - **OpenAI Embeddings**: Leverages cutting-edge language model embeddings for nuanced understanding.
 
 ## Quick Start 🏁
-1. Clone the repo: `git clone <repo-url>`
+1. Clone the repo
 2. Install dependencies
 3. Run
 
